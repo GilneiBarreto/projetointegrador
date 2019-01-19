@@ -1,1 +1,10 @@
+LINK PARA O TESTE DO APLICATIVO QUE FOI REALIZADO COM A FERRAMENTA IONIC LAB
+
 https://youtu.be/9oqnU93k_X8
+
+
+PEQUENA DEMONSTRACAÇÃO DO APLICATIVO NO AVD (Android Virtual Device)
+
+Observação: O vídeo não contém áudio.
+
+https://youtu.be/JFiFxxICgEo
